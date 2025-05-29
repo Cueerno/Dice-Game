@@ -1,6 +1,6 @@
 # 🎲 Dice Game
 
-## 📖 Описание
+## 📖 Description
 `Dice Game` — This is a cli-application for simulating a dice game.
 
 ## 🚀 Installation
